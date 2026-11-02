@@ -1,0 +1,17 @@
+### File 3: `.gitignore`
+*(Prevents compiled `.class` binaries and IDE cache files from cluttering your repository)*
+
+```text
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
